@@ -1,6 +1,6 @@
-# XTLRig
+# GUIRig
 
-XTLRig is a high performance Stellite (XTL) CPU miner, with official support for Windows.
+GUIRig is a high performance CPU miner, with official support for Windows. Based on the original [xmrig](https://github.com/xmrig/xmrig)
 
 <img src="https://i.imgur.com/MIAgTEd.png" width="619" >
 
@@ -27,12 +27,12 @@ XTLRig is a high performance Stellite (XTL) CPU miner, with official support for
 * It's open source software.
 
 ## Download
-* Binary releases: https://github.com/xtlrig/xtlrig/releases
-* Git tree: https://github.com/xtlrig/xtlrig.git
-  * Clone with `git clone https://github.com/xtlrig/xtlrig.git`.
+* Binary releases: https://github.com/crypto-guiminers/guirig/releases
+* Git tree: https://github.com/crypto-guiminers/guirig/guirig.git
+  * Clone with `git clone https://github.com/crypto-guiminers/guirig.git`.
 
 ## Usage
-Use [config.xtlrig.com](https://config.xtlrig.com/xtlrig) to generate, edit or share configurations.
+Use [config.xtlrig.com](https://config.xmrig.com/xmrig) to generate, edit or share configurations.
 
 ### Options
 ```
